@@ -16,6 +16,7 @@
       <change afterPath="$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/components/todo-list/todo-list.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/components/todo-list/todo-list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
@@ -102,7 +103,7 @@
       <workItem from="1606738864101" duration="4059000" />
       <workItem from="1606805072755" duration="10000" />
       <workItem from="1606821976906" duration="867000" />
-      <workItem from="1606897106874" duration="20934000" />
+      <workItem from="1606897106874" duration="21208000" />
     </task>
     <servers />
   </component>

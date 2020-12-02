@@ -1,1 +1,11 @@
-# Getting Started with Create React App
+# ToDo  React App
+
+## Install
+```
+npm install
+```
+
+##Run
+```
+npm start
+```
